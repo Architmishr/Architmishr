@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **A blockchain Project**
 
-- 🌱 I’m currently learning **Java, React.js, Node.js, DSA, Solidity, Web3.js**
+- 🌱 I’m currently learning **Java, React.js, Three.js, DSA, Solidity, Web3.js**
 
 - 👯 I’m looking to collaborate on **Web dev**
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **marchit99@gmail.com**
+- 📫 How to reach me **architmishr99@gmail.com**
 
 - ⚡ Fun fact **I Think you are funny...**
 
